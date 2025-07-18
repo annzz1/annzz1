@@ -10,13 +10,13 @@ With hands-on experience in banking platforms and enterprise applications, I spe
 
 # 💼 Professional Experience
 
-## 🏦 .NET Developer @ ProCredit Bank
+🏦 .NET Developer @ ProCredit Bank
 
 Developing secure digital banking platforms with real-time customer impact
 Building robust backend services using .NET Core and T-SQL optimization
 Contributing to legacy system modernization and Agile development cycles
 
-## 🌟 .NET Developer @ EPAM Systems
+🌟 .NET Developer @ EPAM Systems
 
 Delivered enterprise-level solutions for diverse clients
 Architected scalable microservices and cloud-native applications
@@ -25,14 +25,14 @@ Collaborated across full-stack teams to build end-to-end solutions
 
 # ⚡️ Technical Expertise
 
-## Backend Mastery:
+Backend Mastery:
 
 .NET Core/Framework - ASP.NET Core, Web APIs, Microservices
 Database Technologies - T-SQL, MongoDB, Entity Framework, Query Optimization
 Cloud Platforms - Azure, AWS, Cloud-native architectures
 Integration - RabbitMQ, WebSocket, RESTful APIs
 
-## Development Excellence:
+Development Excellence:
 
 Architecture - Clean Architecture, SOLID Principles, Design Patterns
 Performance - High-throughput systems, Database optimization, Caching strategies
